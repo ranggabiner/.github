@@ -1,0 +1,13 @@
+{
+    "name": "RANGGOOD TESTING OHAOY",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "phone",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
