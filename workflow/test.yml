@@ -1,0 +1,8 @@
+name: Greet & Triage
+on: [issues]
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet new contributor
+        run: echo "Welcome to the repo, thanks for contributing!"
